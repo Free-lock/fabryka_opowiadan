@@ -5,5 +5,5 @@ maxUploadSize = 50
 primaryColor = "#6938db"
 backgroundColor = "#FFFFFF"
 secondaryBackgroundColor = "#F5F3FF"
-textColor = "#1E1B4B"
+textColor = "#000000"
 font = "sans serif"

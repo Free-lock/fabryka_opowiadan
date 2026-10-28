@@ -3,7 +3,7 @@ maxUploadSize = 50
 
 [theme]
 primaryColor = "#6938db"
-backgroundColor = "#FFFFFF"
-secondaryBackgroundColor = "#aadaf7"
+backgroundColor = "#e1e5f1"
+secondaryBackgroundColor = "#aeaff3"
 textColor = "#000000"
 font = "sans serif"
